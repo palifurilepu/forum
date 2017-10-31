@@ -51,8 +51,9 @@
                                         </div>
                                     </div>
                                     <div class="posttext pull-left">
-                                        <h2><a href="http://forum.azyrusthemes.com/02_topic.html">Alif Ganteng Banget</a></h2>
-                                        <p>ini contoh.</p>
+                                        <h2><a href="isi_topic.php">Jual Pupuk Kompos</a></h2>
+                                        <p>Ready stock pupuk kompos kualitas ok harga terjamin.. daerah pankep-sulsel-indonesia.
+                                        yang minat coret-coret mki dibawah, atau langsung hubungi saja nomorku 082292011011.</p>
                                     </div>
                                     <div class="clearfix"></div>
                                 </div>
@@ -85,8 +86,8 @@
                                         </div>
                                     </div>
                                     <div class="posttext pull-left">
-                                        <h2><a href="http://forum.azyrusthemes.com/02_topic.html">Bagaimana Cara Pembibitan Buah Naga?</a></h2>
-                                        <p>Bibit buah naga yang didapatkan melalui metode vegetatif yakni dengan cara melakukan stek pada batang indukan. Dalam memilih indukan juga tidak sembarangan, harus memenuhi syarat antara lain sehat, produktif dalam berbuah, pohonya baik tidak kerdil, buahnya berkualitas, memiliki warna kehijauan menuju abu-abu, dan telah berusia matang. Biasanya para petani juga mengukur diameter batang indukan tersebut, sebab semakin besar diameternya, biasanya buah yang dihasilkan semakin berkualitas..</p>
+                                        <h2><a href="http://forum.azyrusthemes.com/02_topic.html">Cari Bibit Bonsai</a></h2>
+                                        <p>barang kali ada agan-agan sekalian yang jual bibit Bonsai daerah makassar,  bisa langsung coment di bawah atau hub. nomor ini 082292011011</p>
                                     </div>
                                     <div class="clearfix"></div>
                                 </div>
@@ -153,8 +154,8 @@
                                         </div>
                                     </div>
                                     <div class="posttext pull-left">
-                                        <h2><a href="http://forum.azyrusthemes.com/02_topic.html">Pinterest Now Worth $3.8 Billion</a></h2>
-                                        <p>Pinterest's valuation is closing in on $4 billion after its latest funding round of $225 million, according to a report.</p>
+                                        <h2><a href="http://forum.azyrusthemes.com/02_topic.html">Bagaimana Cara Pembibitan Buah Naga?</a></h2>
+                                        <p>Bibit buah naga yang didapatkan melalui metode vegetatif yakni dengan cara melakukan stek pada batang indukan. Dalam memilih indukan juga tidak sembarangan, harus memenuhi syarat antara lain sehat, produktif dalam berbuah, pohonya baik tidak kerdil, buahnya berkualitas, memiliki warna kehijauan menuju abu-abu, dan telah berusia matang. Biasanya para petani juga mengukur diameter batang indukan tersebut, sebab semakin besar diameternya, biasanya buah yang dihasilkan semakin berkualitas..</p>
                                     </div>
                                     <div class="clearfix"></div>
                                 </div>
@@ -172,108 +173,6 @@
                                 <div class="clearfix"></div>
                             </div><!-- POST -->
 
-
-
-                            <!-- POST -->
-                            <div class="post">
-                                <div class="wrap-ut pull-left">
-                                    <div class="userinfo pull-left">
-                                        <div class="avatar">
-                                            <img src="./index_files/avatar.jpg" alt="">
-                                            <div class="status green">&nbsp;</div>
-                                        </div>
-
-                                        <div class="icons">
-                                            <img src="./index_files/icon1.jpg" alt=""><img src="./index_files/icon4.jpg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="posttext pull-left">
-                                        <h2><a href="http://forum.azyrusthemes.com/02_topic.html">10 Kids Unaware of Their Halloween Costume</a></h2>
-                                        <p>It's one thing to subject yourself to a Halloween costume mishap because, hey, that's your prerogative.</p>
-                                    </div>
-                                    <div class="clearfix"></div>
-                                </div>
-                                <div class="postinfo pull-left">
-                                    <div class="comments">
-                                        <div class="commentbg">
-                                            560
-                                            <div class="mark"></div>
-                                        </div>
-
-                                    </div>
-                                    <div class="views"><i class="fa fa-eye"></i> 1,568</div>
-                                    <div class="time"><i class="fa fa-clock-o"></i> 24 min</div>                                    
-                                </div>
-                                <div class="clearfix"></div>
-                            </div><!-- POST -->
-
-
-                            <!-- POST -->
-                            <div class="post">
-                                <div class="wrap-ut pull-left">
-                                    <div class="userinfo pull-left">
-                                        <div class="avatar">
-                                            <img src="./index_files/avatar2.jpg" alt="">
-                                            <div class="status red">&nbsp;</div>
-                                        </div>
-
-                                        <div class="icons">
-                                            <img src="./index_files/icon3.jpg" alt=""><img src="./index_files/icon4.jpg" alt=""><img src="./index_files/icon5.jpg" alt=""><img src="./index_files/icon6.jpg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="posttext pull-left">
-                                        <h2><a href="http://forum.azyrusthemes.com/02_topic.html">What Instagram Ads Will Look Like</a></h2>
-                                        <p>Instagram offered a first glimpse at what its ads will look like in a blog post Thursday. The sample ad, which you can see below.</p>
-                                    </div>
-                                    <div class="clearfix"></div>
-                                </div>
-                                <div class="postinfo pull-left">
-                                    <div class="comments">
-                                        <div class="commentbg">
-                                            89
-                                            <div class="mark"></div>
-                                        </div>
-
-                                    </div>
-                                    <div class="views"><i class="fa fa-eye"></i> 1,568</div>
-                                    <div class="time"><i class="fa fa-clock-o"></i> 15 min</div>                                    
-                                </div>
-                                <div class="clearfix"></div>
-                            </div><!-- POST -->
-
-
-                            <!-- POST -->
-                            <div class="post">
-                                <div class="wrap-ut pull-left">
-                                    <div class="userinfo pull-left">
-                                        <div class="avatar">
-                                            <img src="./index_files/avatar3.jpg" alt="">
-                                            <div class="status red">&nbsp;</div>
-                                        </div>
-
-                                        <div class="icons">
-                                            <img src="./index_files/icon2.jpg" alt=""><img src="./index_files/icon4.jpg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="posttext pull-left">
-                                        <h2><a href="http://forum.azyrusthemes.com/02_topic.html">The Future of Magazines Is on Tablets</a></h2>
-                                        <p>Eric Schmidt has seen the future of magazines, and it's on the tablet. At a Magazine Publishers Association.</p>
-                                    </div>
-                                    <div class="clearfix"></div>
-                                </div>
-                                <div class="postinfo pull-left">
-                                    <div class="comments">
-                                        <div class="commentbg">
-                                            456
-                                            <div class="mark"></div>
-                                        </div>
-
-                                    </div>
-                                    <div class="views"><i class="fa fa-eye"></i> 1,568</div>
-                                    <div class="time"><i class="fa fa-clock-o"></i> 2 days</div>                                    
-                                </div>
-                                <div class="clearfix"></div>
-                            </div><!-- POST -->
 
                         </div>
                         <div class="col-lg-4 col-md-4">

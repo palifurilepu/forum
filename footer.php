@@ -2,7 +2,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-1 col-xs-3 col-sm-2 logo "><a href="http://forum.azyrusthemes.com/index.html#"><img src="./index_files/logo.jpg" alt=""></a></div>
-                        <div class="col-lg-8 col-xs-9 col-sm-5 ">Indonesia 2017, Pawang Buah Naga</div>
+                        <div class="col-lg-8 col-xs-9 col-sm-5 ">Indonesia 2017, Forum Jual Beli Bibit Tanaman</div>
                         <div class="col-lg-3 col-xs-12 col-sm-5 sociconcent">
                             <ul class="socialicons">
                                 <li><a href="http://forum.azyrusthemes.com/index.html#"><i class="fa fa-facebook-square"></i></a></li>
