@@ -312,7 +312,7 @@ include "menu.php";
                             </div>
 
                             <!-- -->
-                            <div class="sidebarblock">
+                            <!-- <div class="sidebarblock">
                                 <h3>My Active Threads</h3>
                                 <div class="divline"></div>
                                 <div class="blocktxt">
@@ -334,7 +334,7 @@ include "menu.php";
                                 <div class="blocktxt">
                                     <a href="http://forum.azyrusthemes.com/03_new_topic.html#">Loud and Brave: Saudi Women Set to Protest Driving Ban</a>
                                 </div>
-                            </div>
+                            </div> -->
 
 
                         </div>

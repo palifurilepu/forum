@@ -1,7 +1,6 @@
 <?php 
- include "header.php";
  include "menu.php";
- 
+ include "header.php";
  ?>
 
 <div class="post">
@@ -17,7 +16,7 @@
                                         </div>
                                     </div>
                                     <div class="posttext pull-left">
-                                        <h2><a href="http://forum.azyrusthemes.com/02_topic.html">Alif Guanteng Banget</a></h2>
+                                        <h2><a href="http://forum.azyrusthemes.com/02_topic.html">Situs Web Forum Penjualan Bibit Tanaman</a></h2>
                                         <p>Sumpah Dia Cowo Paling Ganteng.</p>
                                     </div>
                                     <div class="clearfix"></div>

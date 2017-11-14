@@ -224,16 +224,41 @@
                                 <div class="divline"></div>
                                 <div class="blocktxt">
                                     <ul class="cats">
-                                        <li><a href="http://forum.azyrusthemes.com/02_topic.html#">Trading for Money <span class="badge pull-right">20</span></a></li>
-                                        <li><a href="http://forum.azyrusthemes.com/02_topic.html#">Vault Keys Giveway <span class="badge pull-right">10</span></a></li>
-                                        <li><a href="http://forum.azyrusthemes.com/02_topic.html#">Misc Guns Locations <span class="badge pull-right">50</span></a></li>
-                                        <li><a href="http://forum.azyrusthemes.com/02_topic.html#">Looking for Players <span class="badge pull-right">36</span></a></li>
-                                        <li><a href="http://forum.azyrusthemes.com/02_topic.html#">Stupid Bugs &amp; Solves <span class="badge pull-right">41</span></a></li>
-                                        <li><a href="http://forum.azyrusthemes.com/02_topic.html#">Video &amp; Audio Drivers <span class="badge pull-right">11</span></a></li>
-                                        <li><a href="http://forum.azyrusthemes.com/02_topic.html#">2K Official Forums <span class="badge pull-right">5</span></a></li>
+
+                                     <div class="dropdown">
+                                       <li> <a data-toggle="dropdown" href="http://forum.azyrusthemes.com/index.html#">Jual </a> <b class="caret"></b><span class="badge pull-right">10</span></a>
+                                        <ul class="dropdown-menu" role="menu">
+                                            <li><a role="menuitem" href=""> Bibit Buah<span class="badge pull-right">3</span></a></li>
+                                            <li><a role="menuitem" href=""> Bibit Sayuran<span class="badge pull-right">3</span></a></li>
+                                            <li><a role="menuitem" href=""> Bibit Bunga<span class="badge pull-right">3</span></a></li>
+                                            <li><a role="menuitem" href=""> Pupuk<span class="badge pull-right">1</span></a></li>
+                                            
+                                        </ul></li>                                            
+                                    </div>
+
+
+                                     <div class="dropdown">
+                                       <li> <a data-toggle="dropdown" href="http://forum.azyrusthemes.com/index.html#">Beli </a> <b class="caret"></b><span class="badge pull-right">15</span></a>
+                                        <ul class="dropdown-menu" role="menu">
+                                            <li><a role="menuitem" href=""> Bibit Buah<span class="badge pull-right">2</span></a></li>
+                                            <li><a role="menuitem" href=""> Bibit Sayuran<span class="badge pull-right">4</span></a></li>
+                                            <li><a role="menuitem" href=""> Bibit Bunga<span class="badge pull-right">4</span></a></li>
+                                            <li><a role="menuitem" href=""> Pupuk<span class="badge pull-right">5</span></a></li>
+                                        </ul></li>                                            
+                                    </div>
+
+
+                                     <div class="dropdown">
+                                       <li> <a data-toggle="dropdown" href="http://forum.azyrusthemes.com/index.html#">Other </a> <b class="caret"></b><span class="badge pull-right">0</span></a>
+                                        <ul class="dropdown-menu" role="menu">
+                                            <li><a role="menuitem" href=""> Pertanyaan<span class="badge pull-right">0</span></a></li>
+                                        </ul></li>                                            
+                                    </div>
+
                                     </ul>
                                 </div>
                             </div>
+                            
 
                             <!-- -->
                             <div class="sidebarblock">
