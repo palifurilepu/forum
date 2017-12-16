@@ -52,7 +52,7 @@
                                         </div>
                                     </div>
                                     <div class="posttext pull-left">
-                                        <h2><a href="isi_topic.php">Jual Pupuk Kompos</a></h2>
+                                        <h2><a href="isi_topic.php">Jual Pupuk Kompossss</a></h2>
                                         <p>Ready stock pupuk kompos kualitas ok harga terjamin.. daerah pankep-sulsel-indonesia.
                                         yang minat coret-coret mki dibawah, atau langsung hubungi saja nomorku 082292011011.</p>
                                     </div>
